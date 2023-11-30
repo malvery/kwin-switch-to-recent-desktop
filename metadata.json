@@ -1,0 +1,13 @@
+{
+  "KPlugin": {
+    "Name": "Switch to recent desktop hotkey",
+    "Description": "KWin script - hotkey to switch to the recent desktop",
+    "Icon": "preferences-system-windows",
+    "Version": "1.0",
+    "Id": "kwin-switch-to-recent-desktop",
+    "License": "MIT"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js",
+  "KPackageStructure": "KWin/Script"
+}
